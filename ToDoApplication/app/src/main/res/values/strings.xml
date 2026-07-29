@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ToDoApplication</string>
+
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">Delete task</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="task_saved">Task saved</string>
+    <string name="undo">UNDO</string>
+
+    <string name="empty_state_message">No tasks yet. Tap + to add one!</string>
+
+    <string name="title_label">Title</string>
+    <string name="title_hint">What needs to be done?</string>
+    <string name="title_required">Title is required</string>
+    <string name="description_label">Description (optional)</string>
+    <string name="description_hint">Add more details…</string>
+    <string name="priority_label">Priority</string>
+    <string name="due_date_label">Due Date</string>
+    <string name="no_due_date">No due date set</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="clear_date">Clear</string>
+    <string name="save_task">Save</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter">Enter</string>
+    <string name="name">Enter your name to get started</string>
+
+    <string-array name="priority_levels">
+        <item>Low Priority</item>
+        <item>Medium Priority</item>
+        <item>High Priority</item>
+    </string-array>
+
+</resources>
