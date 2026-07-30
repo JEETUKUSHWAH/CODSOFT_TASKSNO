@@ -1,0 +1,14 @@
+<resources>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="no_alarms">No alarms set. Tap + to add one.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="alarm_label_hint">Alarm label (optional)</string>
+    <string name="choose_tone">Choose Tone</string>
+    <string name="repeat">Repeat</string>
+    <string name="snooze">Snooze</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="app_name">Clock</string>
+
+
+</resources>

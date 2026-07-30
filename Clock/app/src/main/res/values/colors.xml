@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#000000</color>
+    <color name="primary_dark">#4A42CC</color>
+    <color name="accent">#FF6584</color>
+    <color name="background">#F5F6FA</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_dark">#2D2D3A</color>
+    <color name="text_light">#8A8A9E</color>
+    <color name="off_gray">#D8D8E2</color>
+    <color name="ring_gradient_start">#6C63FF</color>
+    <color name="ring_gradient_end">#4A42CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
